@@ -22,5 +22,3 @@ deploy:
     access_key_id: "$AWS_Access_Key_ID"
     secret_access_key:
         secure: "$AWS_Access_Key_Secret"
-    notifications:
-        email: false
